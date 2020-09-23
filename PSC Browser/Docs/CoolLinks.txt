@@ -1,0 +1,129 @@
+mY eMaiL :- PlanetVBCode@yahoo.com
+
+--: Operating System Development :--
+
+http://www.cs.utah.edu/flux/oskit/
+http://www.mega-tokyo.com/forum/
+http://www.execpc.com/~geezer/
+http://www.nondot.org/sabre/os/articles
+
+--: File Formats :--
+
+http://www.wotsit.org/
+
+--: Assembly Language :--
+
+http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html
+http://pix.cs.olemiss.edu/csci223/
+http://www.math.grinnell.edu/~walker/courses/211.fa01/
+
+--: Request For Comments (RFC) :--
+
+http://www.faqs.org/rfcs/rfc###.html  (### from 000 to 999)
+
+--: Cheat Codes :--
+
+http://www.CheatBook.de
+http://www.CheatContainer.de
+http://www.CheatChannel.com
+
+--: Game Development :--
+
+http://www.stelsoft.com
+
+--: Microsoft's Security Releases :--
+
+http://www.microsoft.com/technet/security/bulletin/ms00-003.asp
+
+--: Hacking and phreaking Http sites :--
+
+http://www.packetstorm.security.com
+http://www.neworder.box.sk
+http://www.anticode.com
+http://www.antionline.com
+http://www.antisearch.com
+http://www.astalavista.box.sk
+http://www.securityforce.com
+http://www.rootshell.com
+http://www.cert.org
+http://www.insecure.org
+http://www.ntbugtraq.com
+http://www.packetstorm.genocide.com
+http://www.hackersclub.com
+http://www.happyhacker.org
+
+http://www.outerlimits.net/lordsome/index.html (Hacker's Layer)
+http://web2.airmail.net/km/hfiles/free.htm     (Hacker's Hideout)
+http://resudox.net/bio/novell.html
+http://www.louisville.edu/wrbake01/hack2.html
+http://www.intersurf.com/~materva/files.html
+http://hightop.nrl.navy.mil/rainbow.html
+http://www.rit.edu/~jmb8902/hacking.html
+http://www.spatz.com/pecos/index.html
+http://pages.prodigy.com/FL/dtgz94a/files2.html
+http://www.2600.com					(alt.2600)
+http://att.net/dir800
+http://draco.centerline.com:8080/~franl/crypto.html
+http://everest.cs.ucdavis.edu/Security.html
+http://ice-www.larc.nasa.gov/WWW/security.html
+http://lOpht.com						(lOpht)
+http://lOpht.com/~oblivion/IIRG.html
+http://underground.org
+http://www.alw.nih.gov/WWW/security.html
+http://www.aspentec.com/~frzmtdb/fun/hacker.html
+http://www.cis.ohi-state.edu/hypertext/faq/usenet/alt-2600-faq/faq.html
+http://www.cs.tufts.ed/~mcable/cypher/alerts/alerts.html
+http://www.engin.umich.edu/~jgotts/underground/boxes.html
+http://www.etext.org/Zines
+http://www.inderect.com/www/johnk/
+http://www.mgmua.com/hackers/index.html
+http://www.paranoia.com/mthreat
+http://www.paranoia.com/astrostar/fringe.html
+http://www.umcc.umich.edu/~doug/virus-faq.html
+http://www.wired.com
+
+
+--: Good hacking and phreaking text files :--
+
+"A Novice's Guide To Hacking"
+
+"Alt.2600 Hack Faq"
+
+"The Hacker's Handbook"
+
+'The Official Phreaker's Manual"
+
+"The Hacker Crackdown"
+
+"Computer Hackers: Rebels With A Cause"
+
+"The Legion Of Doom Technical Journals"
+
+"The Ultimate Beginner's Guide To Hacking And Phreaking (Of course!)"
+
+--: Hacking and phreaking Ftp sites :--
+
+ftp://ftp.2600.com
+ftp://ftp.agl.gatech.edu/pub
+ftp://ftp.asylum.sf.ca.us
+ftp://ftp.clark.net/pub/jcase
+ftp://ftp.armory.com/pub/user/kmartind
+ftp://ftp.armory.com/pub/user/swallow
+ftp://ftp.fc.net/pub/defcon/BBEEP
+ftp://ftp.fc.net/pub/phrack
+ftp://ftp.giga.or.at/pub/hacker
+ftp://ftp.lava.net/users/oracle
+ftp://ftp.microserve.net/ppp-pop/strata/mac
+ftp://ftp.near.net/security/archives/phrack
+ftp://ftp.netcom.com/pub/br/bradelym
+ftp://ftp.netcom.com/pub/daemon9
+ftp://ftp.netcom.com/pub/zz/zzyzx
+ftp://ftp.primenet.com/users/k/kludge
+
+--: SWAG :--
+
+http://www.gdsoft.com/swag/swag.html
+
+--: C# IDE :--
+
+http://www.icsharpcode.net/OpenSource/SD/Download/default.asp
